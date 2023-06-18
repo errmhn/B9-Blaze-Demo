@@ -108,10 +108,12 @@ public class BlazeDemoPage {
 	}
 
 	public void enterCreditCardMonth(String creditCardMonth) {
+		creditCardMonthField.clear();
 		creditCardMonthField.sendKeys(creditCardMonth);
 	}
 
 	public void enterCreditCardYear(String creditCardYear) {
+		creditCardYearField.clear();
 		creditCardYearField.sendKeys(creditCardYear);
 	}
 
