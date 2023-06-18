@@ -25,3 +25,4 @@ Feature: Auto Register Page Functionality
       | Garry    | Cena    | 123 drive st | a@abcgmail.com |   01652 | Diner's Club     |     025362598659 |              03 |           2023 | Big Show    | Thank you for your purchase today! |
       | Reham    | Cena    | 123 drive st | a@abcgmail.com |   01652 | American Express |     025362598659 |              03 |           2023 | Undertaker  | Thank you for your purchase today! |
       | Reham    | Cena    | 123 drive st | a@abcgmail.com |   01652 | Diner's Club     |     025362598659 |              03 |           2023 | Hulk Hogan  | Thank you for your purchase today! |
+ 
